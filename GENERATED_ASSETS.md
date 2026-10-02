@@ -46,3 +46,55 @@
 **Глубокий стол, редактирование первого варианта:** Use case: precise-object-edit. This image is the edit target. Create a sibling empty pizzeria prep counter sprite in exactly the same warm polished cartoon style, wood color, teal cabinet color. Change ONLY its perspective and proportions: view it from much higher above, so the broad deep EMPTY wooden work surface occupies approximately the upper 65 percent of the visible furniture, and the cabinet front occupies only the lower 35 percent. The table needs enough apparent depth to place a whole large pizza fully ON the wooden work surface rather than over the cabinet doors. Make the entire furniture large and fill the canvas with very small transparent margins. Keep the entire work surface absolutely empty and clean, without any bowls, utensils, plants, ingredients, flour or other objects. No text. Transparent alpha background. Wide horizontal isolated sprite.
 
 **Клиент без статичного заказа:** Use case: precise-object-edit / identity-preserve. Edit target: the supplied cute cartoon boy customer sprite. Remove ONLY the entire speech bubble, the pizza inside the bubble, its tail and the yellow emphasis strokes. Replace those removed parts with genuinely transparent alpha. Preserve the boy exactly: same face and identity, brown hair, expression, pose, pointing finger, green jacket, cream hoodie, blue backpack, scale, placement, colors, warm 2D cartoon shading, and bottom crop. Do not add any objects, feet, text, new bubble or pizza. This separate transparent customer sprite will stand behind a counter; the game will render a dynamic order bubble showing the selected pizza instead of the fixed baked-in one. Preserve the original boy cleanly with no changes.
+
+## Дополнения 1.2
+
+Созданы встроенным ImageGen, каждый PNG отдельным вызовом. Исходники: `assets/generated/`; готовые копии до 700 px: `assets/`.
+
+### topping-ham
+
+Файл: `assets/topping-ham.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Several separate thin pink cooked ham strips scattered with transparent gaps in a wide round pizza topping arrangement. Ham only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### topping-chicken
+
+Файл: `assets/topping-chicken.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Several separate bite-size pieces of cooked tender golden chicken scattered with transparent gaps in a wide round pizza topping arrangement. Chicken only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### topping-pepper
+
+Файл: `assets/topping-pepper.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Separate curved red, yellow and green sweet bell pepper strips scattered with transparent gaps in a wide round pizza topping arrangement. Pepper only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### topping-corn
+
+Файл: `assets/topping-corn.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Many separate shiny golden sweet corn kernels scattered with transparent gaps in a wide round pizza topping arrangement. Corn only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### topping-pineapple
+
+Файл: `assets/topping-pineapple.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Several separate juicy yellow pineapple chunks scattered with transparent gaps in a wide round pizza topping arrangement. Pineapple only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### topping-onion
+
+Файл: `assets/topping-onion.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. Several separate thin purple red onion rings and half rings scattered with transparent gaps in a wide round pizza topping arrangement. Onion only, no bowl, no dish, no dough or cheese. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### pizza-combo12
+
+Файл: `assets/pizza-combo12.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. One complete baked deluxe pizza with golden crust, tomato sauce, melted mozzarella, pepperoni slices, mushroom slices, tomato slices, basil leaves, black olive rings, ham strips, chicken pieces, bell pepper strips and corn kernels. All eleven topping types recognizable, balanced arrangement and appetizing warm cartoon style. No pineapple, no onion, no plate. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
+
+### pizza-combo14
+
+Файл: `assets/pizza-combo14.png`
+
+Промпт: Use case: stylized-concept. A separate transparent PNG sprite for a cozy educational children’s pizzeria game. One complete baked extra deluxe pizza with golden crust, tomato sauce, melted mozzarella, pepperoni slices, mushroom slices, tomato slices, basil leaves, black olive rings, ham strips, chicken pieces, bell pepper strips, corn kernels, pineapple chunks and purple onion rings. All thirteen topping types recognizable, balanced arrangement and appetizing warm cartoon style. No plate. Match the existing polished warm hand-painted 2D cartoon food art, soft outlines, golden lighting, readable clean shapes. View from 30 degrees above, slightly oval composition. Centered, whole subject visible, transparent margins. Genuine transparent alpha background. No text, no letters, no watermark, no kitchen furniture. One separate asset only.
